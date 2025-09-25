@@ -1,9 +1,4 @@
-# readme
+# Laratter Practice
 
-## chapter01
+## 練習用リポジトリ
 
-## chapter02
-
-## chapter03
-
-## chapter04
